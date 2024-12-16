@@ -13,6 +13,9 @@ The project includes:
 
 ## Requirements
 
+output:
+![image](https://github.com/user-attachments/assets/61d6fd06-66fe-4db3-bd08-115edc426646)
+
 Before running the code, ensure you have the following packages installed:
 
 ```r
